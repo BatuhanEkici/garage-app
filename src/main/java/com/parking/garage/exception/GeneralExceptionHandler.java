@@ -1,6 +1,5 @@
-package com.parking.garage.excepiton;
+package com.parking.garage.exception;
 
-import com.parking.garage.service.GarageService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.ExceptionHandler;

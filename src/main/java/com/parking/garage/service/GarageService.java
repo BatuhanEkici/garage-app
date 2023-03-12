@@ -1,6 +1,6 @@
 package com.parking.garage.service;
 
-import com.parking.garage.excepiton.GarageException;
+import com.parking.garage.exception.GarageException;
 import com.parking.garage.model.Car;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
